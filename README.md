@@ -11,4 +11,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+![snake gif](https://raw.githubusercontent.com/FiyanGit12/FiyanGit12/output/github-contribution-grid-snake.svg)
+![snake dark](https://raw.githubusercontent.com/FiyanGit12/FiyanGit12/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
