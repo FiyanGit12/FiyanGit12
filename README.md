@@ -5,9 +5,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4kaza.ae) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Arthur_ysb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfiyanyan8@gmail.com) 
 
-### 🐍 Animasi Kontribusi GitHub
 
-![snake gif](https://raw.githubusercontent.com/FiyanGit12/FiyanGit12/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://raw.githubusercontent.com/FiyanGit12/FiyanGit12/output/github-contribution-grid-snake.svg) -->
 ![snake dark](https://raw.githubusercontent.com/FiyanGit12/FiyanGit12/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
