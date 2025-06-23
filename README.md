@@ -1,7 +1,7 @@
 Hi, saya Fiyan 😉
 
 # About Me:
-🎓 Saat ini sedang fokus menjadi Software Engineer  <br>🤝 Terbuka untuk kolaborasi proyek web development  <br>🧠 Sedang belajar Node.js, Express, dan MongoDB  <br>💬 Tanya saya tentang HTML, CSS, JavaScript  <br>📬 Saya menerima job freelance di bidang web
+🎓 Currently focusing on becoming a Software Engineer <br>🤝 Open to collaboration on web development projects <br>🧠 Currently learning Node.js, Express, and MongoDB <br>💬 Ask me about HTML, CSS, JavaScript <br>📬 I accept freelance jobs in the web field
 
 
 ## 🌐 Socials:
