@@ -3,7 +3,7 @@
 <h3 align="center">Web Development</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/4s2UpTG.png" alt="Web Development" width="500"/>
+  <img src="https://i.imgur.com/web.png" alt="Web Development" width="500"/>
 </p>
 
 
