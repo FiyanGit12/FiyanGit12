@@ -1,4 +1,4 @@
-<h1 align="center">Hi, kenalin saya Fiyan 👋</h1>
+<h2 align="center">Hi, kenalin saya Fiyan 👋</h2>
 
 <h3 align="center">Web Development</h3>
 
