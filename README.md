@@ -1,4 +1,6 @@
-<h3 align="center">Hi, kenalin saya Fiyan 👋</31>
+<h1 align="center">Hi, kenalin saya Fiyan 👋</h1>
+
+<h3 align="center">Web Development</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/4s2UpTG.png" alt="Web Development" width="500"/>
