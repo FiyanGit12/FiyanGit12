@@ -1,4 +1,7 @@
-<br>Hi, saya Fiyan 😉<br>
+<p align="center">
+  <img src="https://i.imgur.com/uZl8J9e.png" alt="Web Development" width="500"/>
+</p>
+
 
 # About Me:
 🎓 Currently focusing on becoming a Software Engineer <br>🤝 Open to collaboration on web development projects <br>🧠 Currently learning Node.js, Express, and MongoDB <br>💬 Ask me about HTML, CSS, JavaScript <br>📬 I accept freelance jobs in the web field
