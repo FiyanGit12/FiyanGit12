@@ -1,7 +1,7 @@
 <h1 align="center">Hi, kenalin saya Fiyan 👋</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/UyTfRUG.png" alt="Web Development" width="500"/>
+  <img src="https://imgur.com/a/LU6vKEA" alt="Web Development" width="500"/>
 </p>
 
 
