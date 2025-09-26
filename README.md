@@ -1,5 +1,3 @@
-<h2 align="center">Hi, kenalin saya Fiyan 👋</h2>
-
 <p align="center">
   <img src="https://i.imgur.com/BEKsePE.png" alt="Web Development" width="500"/>
 </p>
